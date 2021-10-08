@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mralexjuarez
-- 👀 I’m interested in all things food and drink.
+- 👀 I’m interested in all things food and drink as well as yoga and breathwork
 - 🌱 I’m currently learning how to code mobile apps with Flutter / Dart.
 - 💞️ I’m looking to collaborate on anything.
 
